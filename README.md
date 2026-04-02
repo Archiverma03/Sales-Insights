@@ -70,13 +70,8 @@ The dashboard provides a **centralized view of revenue, profit margins, sales qu
 
 # 🖼️ Dashboard Snapshots
 
-*(Add screenshots of your dashboard below)*
+[Dashboard Overview](https://github.com/Archiverma03/Sales-Insights/blob/main/Images/sales%20insight%20ss.png)
 
-![Dashboard Overview](images/dashboard1.png)
-
-![Market Analysis](images/dashboard2.png)
-
-![Profit Insights](images/dashboard3.png)
 
 ---
 
